@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA,uBAAuB;AACvB;EACI,gBAAgB;EAChB,eAAe,EAClB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\r\n\r\n/*main-menu.blade.php*/\r\na.navbar-brand.naslov {\r\n    font-size: 24px;\r\n    color: #2980b9;\r\n}"],"sourceRoot":"/source/"}
